@@ -1,0 +1,16 @@
+addresses with address randomization disabled 
+
+0xb7e5f430 = system 
+
+0xb7e52fb0 = exit  
+
+0xbffff5e0 = "/bin/sh"  
+
+addresses with address randoization enabled:
+
+0xb75e0430 = system
+
+0xb75d3fb0 = exit
+
+0xbfe485cc = "/bin/sh"
+
